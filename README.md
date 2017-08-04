@@ -1,5 +1,5 @@
 # Fresh Tomatoes
-This Python program will dynamiclly generate a webpage showing a grid of favorite movies with poster images and movie trailers.
+This Python program will dynamically generate a webpage showing a grid of favorite movies with poster images and movie trailers.
 
 ## Install
 This code runs on Python 2.7.13 which can be downloaded [here](https://www.python.org/downloads/).
